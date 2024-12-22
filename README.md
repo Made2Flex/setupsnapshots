@@ -35,9 +35,9 @@
 
 ## Usage
 
-To run the setup script, execute the following command:
+To run the setup script, execute the following command in your terminal:
 
-sudo ./setupsnapshots.sh
+./setupsnapshots.sh
 
 ## Contributing
 
