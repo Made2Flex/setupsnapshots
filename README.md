@@ -14,7 +14,7 @@
 
 ## Requirements
 
-- A Linux distribution with BTRFS support.
+- A Linux distribution with BTRFS file format.
 - Bash shell.
 - Sudo privileges for installing packages and modifying system configurations.
 
